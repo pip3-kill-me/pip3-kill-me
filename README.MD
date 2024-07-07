@@ -35,13 +35,14 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"/>
-<img align="left" alt="java" width="60" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1920px-Arm_logo_2017.svg.png"/>
+<img align="left" alt="java" width="60" style="padding-right:10px; padding-top:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1920px-Arm_logo_2017.svg.png"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1720244492"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"/>
+<br>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"/>
