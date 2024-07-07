@@ -26,6 +26,7 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="java" width="60" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1920px-Arm_logo_2017.svg.png"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
@@ -33,11 +34,10 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="java" width="30" style="padding-right:10px;" src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg"/>
-<img align="left" alt="java" width="60" style="padding-right:10px;" src="https://banner2.cleanpng.com/20180402/cxw/kisspng-arm-architecture-arm-holdings-central-processing-u-arm-5ac1c2ce361c85.6525474115226477582217.jpg"/>
+<img align="left" alt="java" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="java" width="95" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg"/>
-<img align="left" alt="java" width="100" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg"/>
-<img align="left" alt="java" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png"/>
+<img align="left" alt="java" width="120" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg"/>
+<img align="left" alt="java" width="90" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/AutoCAD-logo.png?20230107114132"/>
