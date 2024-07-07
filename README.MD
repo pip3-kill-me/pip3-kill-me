@@ -22,6 +22,8 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 - Class E **RF** power amplifiers
 - **Phased array** RF systems (please kill me)
 
+---
+
 ### My tools
 
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
