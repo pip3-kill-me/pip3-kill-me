@@ -9,14 +9,16 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 - 📚 Constantly learning and **exploring**
 
 ## 🔨 Technologies & Tools
-- **Languages**: C/C++, MATLAB, Python, VHDL
+- **Languages**: C, C++, MATLAB, Python, VHDL, Ladder
 - **Hardware & Embedded**: ARM, ESP32, FPGA, PLC
-- **Software & Tools**: MATLAB, Simulink, PSpice, PSim, Proteus, AutoCAD, SolidWorks, Altium, Ansys, EcoStruxure
+- **Software & Tools**: MATLAB, Simulink, PSpice, PSim, Proteus, AutoCAD, SolidWorks, Altium, Ansys, EcoStruxure, VSCode,
 - **Cloud**: Proxmox and AWS
-- **Others**: Git, Docker, pfSense
+- **Others**: Git, Docker, pfSense 
+- **Preferred linux distributions**: Debian and Arch
 
 ## 🌱 What I'm Currently Learning
-- Advanced concepts in **multi level converters** and **fuzzy network based controllers**
+- Advanced concepts in **multi level converters** 
+- **Fuzzy network** based controllers
 - **FPGA programming** and **digital signal processing**
 - Networking and traffic management with **pfSense**
 - Class E **RF** power amplifiers
