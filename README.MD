@@ -10,8 +10,8 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 
 ## 🔨 Technologies & Tools
 - **Languages**: C/C++, MATLAB, Python, VHDL
-- **Hardware**: ARM, ESP32, FPGA
-- **Software & Tools**: MATLAB, Simulink, PSpice, AutoCAD, Altium, Ansys
+- **Hardware & Embedded**: ARM, ESP32, FPGA, PLC
+- **Software & Tools**: MATLAB, Simulink, PSpice, PSim, Proteus, AutoCAD, SolidWorks, Altium, Ansys, EcoStruxure
 - **Cloud**: Proxmox and AWS
 - **Others**: Git, Docker, pfSense
 
