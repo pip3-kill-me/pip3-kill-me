@@ -22,7 +22,7 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 - **FPGA programming** and **digital signal processing**
 - Networking and traffic management with **pfSense**
 - Class E **RF** power amplifiers
-- **Phased array** RF systems (please kill me)
+- **Phased array** RF systems
 
 ---
 
