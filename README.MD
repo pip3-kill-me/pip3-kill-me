@@ -26,7 +26,7 @@ I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge
 
 ---
 
-### My tools
+### My Tools
 
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
