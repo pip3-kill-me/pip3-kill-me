@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge the gap between hardware and software, and I love diving deep into projects that blend the two. 
+I'm Matheus, an enthusiastic Electrical Engineering student. My interests bridge the gap between hardware and software, and I love diving deep into projects that blend the two
 
 ## 🚀 About Me
 - 🔋 **Electrical Engineering Student** 
